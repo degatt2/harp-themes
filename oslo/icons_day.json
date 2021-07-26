@@ -1,0 +1,464 @@
+{
+    "accomodation": {
+        "x": 0,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "airport": {
+        "x": 33,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "amusement-park": {
+        "x": 0,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "art-gallery": {
+        "x": 33,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "atm": {
+        "x": 66,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "attraction": {
+        "x": 66,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "bank": {
+        "x": 0,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "beach": {
+        "x": 33,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "bookstore": {
+        "x": 66,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "bowling": {
+        "x": 99,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "bus": {
+        "x": 99,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "business": {
+        "x": 99,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "cable-way": {
+        "x": 0,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "camping": {
+        "x": 33,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "car-charging": {
+        "x": 66,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "car-dealership": {
+        "x": 99,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "car-rental": {
+        "x": 132,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "car-repair": {
+        "x": 132,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "car-wash": {
+        "x": 132,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "casino": {
+        "x": 132,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "cemetry": {
+        "x": 0,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "cinema": {
+        "x": 33,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "cocktail": {
+        "x": 66,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "coffee": {
+        "x": 99,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "education": {
+        "x": 132,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "exhibition-center": {
+        "x": 165,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "facility": {
+        "x": 165,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "fast-food": {
+        "x": 165,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "ferry": {
+        "x": 165,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "first-aid": {
+        "x": 165,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "fitness": {
+        "x": 0,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "frontier-crossing": {
+        "x": 33,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "game-arcade": {
+        "x": 66,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "generic-point": {
+        "x": 99,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "golf-course": {
+        "x": 132,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "harbor": {
+        "x": 165,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "hospital": {
+        "x": 198,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "hotel": {
+        "x": 198,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "inclined": {
+        "x": 198,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "karaoke": {
+        "x": 198,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "laundry": {
+        "x": 198,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "library": {
+        "x": 198,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "metro": {
+        "x": 0,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "monorail": {
+        "x": 33,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "mountain": {
+        "x": 66,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "museum": {
+        "x": 99,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "nature-overlook": {
+        "x": 132,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "nature": {
+        "x": 165,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "night-club": {
+        "x": 198,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "park-and-ride": {
+        "x": 231,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "parking-bicycle": {
+        "x": 231,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "parking-garage": {
+        "x": 231,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "parking": {
+        "x": 231,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "petrol-station": {
+        "x": 231,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "pharmacy": {
+        "x": 231,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "picnic-area": {
+        "x": 231,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "playground": {
+        "x": 0,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "police": {
+        "x": 33,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "pool": {
+        "x": 66,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "post": {
+        "x": 99,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "pub": {
+        "x": 132,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "public-toilet": {
+        "x": 165,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "rail-light": {
+        "x": 198,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "rail-regional": {
+        "x": 231,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "religious-place": {
+        "x": 264,
+        "y": 0,
+        "width": 32,
+        "height": 32
+    },
+    "restaurant": {
+        "x": 264,
+        "y": 33,
+        "width": 32,
+        "height": 32
+    },
+    "shopping": {
+        "x": 264,
+        "y": 66,
+        "width": 32,
+        "height": 32
+    },
+    "ski-run": {
+        "x": 264,
+        "y": 99,
+        "width": 32,
+        "height": 32
+    },
+    "stadium": {
+        "x": 264,
+        "y": 132,
+        "width": 32,
+        "height": 32
+    },
+    "swimming": {
+        "x": 264,
+        "y": 165,
+        "width": 32,
+        "height": 32
+    },
+    "taxi": {
+        "x": 264,
+        "y": 198,
+        "width": 32,
+        "height": 32
+    },
+    "theater": {
+        "x": 264,
+        "y": 231,
+        "width": 32,
+        "height": 32
+    },
+    "toll-booth": {
+        "x": 0,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "tourist-information": {
+        "x": 33,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "train": {
+        "x": 66,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "travel-agent-ticketing": {
+        "x": 99,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    },
+    "zoo": {
+        "x": 132,
+        "y": 264,
+        "width": 32,
+        "height": 32
+    }
+}
