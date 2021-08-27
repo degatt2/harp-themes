@@ -50,7 +50,7 @@
         }
     },
     "poiTables": [
-        { "name": "tzPoiTableHere", "url": "oslo/poi_table_here.json", "useAltNamesForKey": true }
+        { "name": "tzPoiTableHere", "url": "poi_table_here.json", "useAltNamesForKey": true }
     ],
     "textStyles": [
         { "name": "smallSign", "color": "#000000", "fontCatalogName": "fira" },
