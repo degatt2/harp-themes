@@ -34,19 +34,19 @@
     "clearColor": "#1c1e20",
     "images": {
         "icons_night_here": {
-            "url": "oslo/icons_night.png",
+            "url": "icons_night.png",
             "preload": true,
-            "atlas": "oslo/icons_night.json"
+            "atlas": "icons_night.json"
         },
         "city_center_here": {
-            "url": "oslo/city_center.png",
+            "url": "city_center.png",
             "preload": true,
-            "atlas": "oslo/city_center.json"
+            "atlas": "city_center.json"
         },
         "tmc_icons_day_here": {
-            "url": "oslo/tmc_icons_day.png",
+            "url": "tmc_icons_day.png",
             "preload": true,
-            "atlas": "oslo/tmc_icons_day.json"
+            "atlas": "tmc_icons_day.json"
         }
     },
     "poiTables": [
