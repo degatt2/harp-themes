@@ -36,11 +36,7 @@
     ],
     "clearColor": "#F0F3F7",
     "images": {
-        "icons_day_here": {
-            "url": "icons_day.png",
-            "preload": true,
-            "atlas": "icons_day.json"
-        },
+        "icons_day_here": { "url": "icons_day.png", "preload": true, "atlas": "icons_day.json" },
         "city_center_here": {
             "url": "city_center.png",
             "preload": true,
@@ -15730,7 +15726,7 @@
             ]
         },
         "Ferry.TunnelColor": { "value": "#1e3041" },
-        "Ferry.FontStyle.Color": { "value": "#F2F5F9" },
+        "Ferry.FontStyle.Color": { "value": "#4E5663AE" },
         "Ferry.FontStyle.OutlineColor": { "value": "#C1C7D1" },
         "Ferry.FontStyle.Size": {
             "value": [
@@ -27565,7 +27561,7 @@
         "Polygon.Diffuse.Factor": { "value": 1 },
         "Polygon.Land.Disable.Shading": { "value": false },
         "Polygon.Water.Disable.Shading": { "value": true },
-        "ExtrudedBuildings.Color": { "value": "#BFC0C3" },
+        "ExtrudedBuildings.Color": { "value": "#DCE0EB" },
         "ExtrudedBuildings.Opacity": { "value": 0.7 },
         "ExtrudedBuildings.Emissive.Color": { "value": "#C8C8C8" },
         "ExtrudedBuildings.Emissive.Intensity": { "value": 0.1 },
