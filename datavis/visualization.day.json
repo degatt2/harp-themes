@@ -37,23 +37,23 @@
     "clearColor": "#F0F3F7",
     "images": {
         "icons_day_here": {
-            "url": "oslo/icons_day.png",
+            "url": "icons_day.png",
             "preload": true,
-            "atlas": "oslo/icons_day.json"
+            "atlas": "icons_day.json"
         },
         "city_center_here": {
-            "url": "oslo/city_center.png",
+            "url": "city_center.png",
             "preload": true,
-            "atlas": "oslo/city_center.json"
+            "atlas": "city_center.json"
         },
         "tmc_icons_day_here": {
-            "url": "oslo/tmc_icons_day.png",
+            "url": "tmc_icons_day.png",
             "preload": true,
-            "atlas": "oslo/tmc_icons_day.json"
+            "atlas": "tmc_icons_day.json"
         }
     },
     "poiTables": [
-        { "name": "tzPoiTableHere", "url": "oslo/poi_table_here.json", "useAltNamesForKey": true }
+        { "name": "tzPoiTableHere", "url": "poi_table_here.json", "useAltNamesForKey": true }
     ],
     "textStyles": [
         { "name": "smallSign", "color": "#333B47", "fontCatalogName": "fira" },
