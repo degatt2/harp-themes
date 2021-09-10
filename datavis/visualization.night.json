@@ -37,9 +37,9 @@
     "clearColor": "#282F3C",
     "images": {
         "icons_day_here": {
-            "url": "icons_day.png",
+            "url": "icons_night.png",
             "preload": true,
-            "atlas": "icons_day.json"
+            "atlas": "icons_night.json"
         },
         "city_center_here": {
             "url": "city_center.png",
