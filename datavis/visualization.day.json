@@ -36,7 +36,7 @@
     ],
     "clearColor": "#F0F3F7",
     "images": {
-        "icons_day_here": { "url": "icons_day.png", "preload": true, "atlas": "icons_day.json" },
+        "icons_day_here": { "url": "icons_day_lightgrey.png", "preload": true, "atlas": "icons_day.json" },
         "city_center_here": {
             "url": "city_center.png",
             "preload": true,
