@@ -2,9 +2,9 @@
     "fog": { "startRatio": 0.8 },
     "sky": {
         "type": "gradient",
-        "topColor": "#236ED5",
-        "bottomColor": "#E6FCFF",
-        "groundColor": "#E6FCFF",
+        "topColor": "#000000",
+        "bottomColor": "#000000",
+        "groundColor": "#000000",
         "monomialPower": 0.6
     },
     "lights": [
